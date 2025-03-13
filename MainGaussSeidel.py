@@ -3,8 +3,8 @@
 #   resolver sistemas de ecuaciones
 #
 #           Autor:
-#   Gilbert Alexander Mendez Cervera
-#   mendezgilbert222304@outlook.com
+#   Argel Jesus Pech Manrique
+#   argelpech098@gmail.com
 #   Version 1.0 : 12/03/2025
 #
 import numpy as np
